@@ -8,7 +8,7 @@
 
 <picture><img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /></picture>
 
-<br><br>
+<br>
 
 
 - :school: I am a `undergraduate` at [Faculty of Computing at [Saegis Campus](https://www.saegis.ac.lk/).
