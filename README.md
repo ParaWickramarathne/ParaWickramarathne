@@ -11,7 +11,7 @@
 <br>
 
 
-- :school: I am a `undergraduate` at [Faculty of Computing at [Saegis Campus](https://www.saegis.ac.lk/).
+- :school: I am a `3rd year undergraduate` at [Faculty of Computing at [Saegis Campus](https://www.saegis.ac.lk/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
