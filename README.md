@@ -16,7 +16,7 @@
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://parawickramarathne.github.io/My_Portfolio_new/Parami_Wickramarathna_CV.pdf).
-- :boom: You can visit [MY WEBSITE](https://parawickramarathne.github.io/My_Portfolio_new/).
+- :boom: You can visit [My Portfolio](https://parawickramarathne.github.io/My_Portfolio_new/).
 - 📫 How to reach me **paramiwickrama24@gmail.com**
 <br>
 
