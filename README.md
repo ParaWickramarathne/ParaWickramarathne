@@ -15,9 +15,9 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://parawickramarathne.github.io/My_Portfolio-main/Parami%20CV.pdf).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://parawickramarathne.github.io/My_Portfolio_new/Parami_Wickramarathna_CV.pdf).
 - :boom: You can visit [MY WEBSITE](https://parawickramarathne.github.io/My_Portfolio_new/).
-- 📫 How to reach me **parawick19@gmail.com**
+- 📫 How to reach me **paramiwickrama24@gmail.com**
 <br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
